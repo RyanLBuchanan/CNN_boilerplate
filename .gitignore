@@ -1,0 +1,9 @@
+funny_dog.mp4
+ssd300_mAP_77.43_v2.pth
+.DS_store
+.ipynb_checkpoints
+*.jpg
+dataset/
+*Untitled.ipynb
+__pycache__/
+**/data
